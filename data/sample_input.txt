@@ -1,0 +1,25 @@
+3
+A101
+HR-PC-01
+Workstation
+192.168.1.10
+Windows 11
+HR
+Medium
+Secure
+A102
+Web-Server
+Server
+192.168.1.20
+Ubuntu
+IT
+Critical
+Vulnerable
+A103
+Core-Router
+Router
+192.168.1.1
+Cisco IOS
+Network
+High
+Warning

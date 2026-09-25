@@ -1,0 +1,36 @@
+=========================================
+      CYBERSECURITY ASSET INVENTORY
+=========================================
+Asset ID      : A101
+Asset Name    : HR-PC-01
+Asset Type    : Workstation
+IP Address    : 192.168.1.10
+OS            : Windows 11
+Department    : HR
+Risk Level    : Medium
+Status        : Secure
+-----------------------------------------
+Asset ID      : A102
+Asset Name    : Web-Server
+Asset Type    : Server
+IP Address    : 192.168.1.20
+OS            : Ubuntu
+Department    : IT
+Risk Level    : Critical
+Status        : Vulnerable
+-----------------------------------------
+Asset ID      : A103
+Asset Name    : Core-Router
+Asset Type    : Router
+IP Address    : 192.168.1.1
+OS            : Cisco IOS
+Department    : Network
+Risk Level    : High
+Status        : Warning
+=========================================
+Total Assets       : 3
+Critical Assets    : 1
+High Risk Assets   : 1
+Medium Risk Assets : 1
+Vulnerable Assets  : 1
+=========================================
